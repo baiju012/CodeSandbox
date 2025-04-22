@@ -2,4 +2,4 @@
 
 [Link](http://127.0.0.1:3000/8.4+Web+Design+Agency+Project/8.4%20Web%20Design%20Agency%20Project/solution.html)
 
-[Link]http://127.0.0.1:5501/9.0+Display+Flex/9.0%20Display%20Flex/html-table.html
+[Link](http://127.0.0.1:5501/9.0+Display+Flex/9.0%20Display%20Flex/html-table.html)
